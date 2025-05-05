@@ -5,9 +5,3 @@ closing the connection
 
 change 1
 change 2 in harsh's database
-
-
-
-change 1
-change 2 in harsh's database
->>>>>>> feature3
